@@ -3,9 +3,13 @@ THE OUTPUT OF THIS FILE IS
 
 STARTING POSITION
 ########
+
 #......#
+
 #...#.##
+
 #$#....#
+
 ########
 --------------------------------
 ORDER OF MOVEMENT
