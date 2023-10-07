@@ -7,13 +7,13 @@ STARTING POSITION<br />
 #...#.##<br />
 #$#....#<br />
 ########<br />
---------------------------------<br />
-ORDER OF MOVEMENT<br />
-1. Up/North<br />
-2. Right/East<br />
-3. Down/South<br />
---------------------------------<br />
-LIST OF PROBABLE ITEM LOCATIONS<br />
+--------------------------------
+ORDER OF MOVEMENT
+1. Up/North
+2. Right/East
+3. Down/South
+--------------------------------
+LIST OF PROBABLE ITEM LOCATIONS
 1. Probable item locations : [ X = 2, Y = 5 ]<br />
 ########<br />
 #......#<br />
